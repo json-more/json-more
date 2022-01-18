@@ -1,2 +1,2 @@
 # json-more
-> All JSON Collections
+> All JSON Collection
